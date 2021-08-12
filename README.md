@@ -1,8 +1,9 @@
 ### Welomce to NailShops
 
 ### You will find in this repo the following stuff: 
-* This repo has an SRS document (based on Software Requirement Specification Template).
+* This repo has an SRS document.
 * Use case diagram, ERD and database diagram of this project.
+* Techs: StarUML, Draw.io, MS SQL Server for Use case diagram, ERD and Database diagram 
 
 ## Have fun with my code and feel free to give me any comments
 
